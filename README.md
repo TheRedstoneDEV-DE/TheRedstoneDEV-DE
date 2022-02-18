@@ -2,6 +2,7 @@
 - 👀 I’m interested in java and c++ programming and in anything around AI
 - currently I'm working on an simple installer 
 for JavaFX and on my VoiceAssistant
+- at this time I'm learning Rust, because I'm interested in Web-Development
 - 📫 You can reach me through Discord, 
 I'm TheRedstoneDEV_DE#0092, you can ask any question 
 you have about my programs and get support!
